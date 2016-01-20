@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_text">#53920e</color>
+    <color name="body_text">#737373</color>
+    <color name="heading_text">#000000</color>
+    <color name="footer_text">#262626</color>
+
+    <!--for theme-->
+    <color name="primary_color">#DA1F16</color>
+    <color name="darkprimary_color">#93980e</color>
+    <!--<color name="acent_color">#53920e</color>-->
+
+    <!--for button-->
+    <color name="btn_color">#424242</color>
+    <color name="blue">#3C57A4</color>
+    <color name="red">#DA1F16</color>
+    <color name="yellow">#FEB032</color>
+
+    <!--divider-->
+    <color name="divider">#d5d5d5</color>
+    <color name="btn_back">#F2F2F2</color>
+
+    <!--for cards-->
+    <color name="white">#ffffff</color>
+    <color name="post_bg">#ebebeb</color>
+
+    <color name="footer">#424242</color>
+
+
+</resources>
